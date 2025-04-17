@@ -18,9 +18,9 @@
             </rule>
           </section>
           <section>
-            <rule>
-              <match>
-                <AND>
+             <rule>
+               <match>
+                 <AND>
                   <NAME>xmlns:.*</NAME>
                   <XML_ATTRIBUTE />
                   <XML_NAMESPACE>^$</XML_NAMESPACE>
